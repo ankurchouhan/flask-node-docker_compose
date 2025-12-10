@@ -16,7 +16,7 @@ This application consists of:
 
 ## 📸 Screenshots
 
-| Frontend | Backend API | Docker Containers |
+| Docker Build | Backend & Frontend Host | Frontend Submit Form |
 |-----------|--------------|------------------|
 | ![Frontend UI](images/Screenshot%202025-12-10%20231740.png) | ![API Response](images/Screenshot%202025-12-10%20231842.png) | ![Docker Containers Running](images/Screenshot%202025-12-10%20232404.png) |
 
@@ -24,16 +24,15 @@ This application consists of:
 
 ### 🔧 More Interface Previews
 
-| Form Submission | JSON Response | Logs | Network |
+| Backend JSON Data | JSON Response | Docker Login | Docker Hub Images Push |
 |------------------|----------------|------|----------|
 | ![Form Submission](images/Screenshot%202025-12-10%20232420.png) | ![API JSON Response](images/Screenshot%202025-12-10%20232614.png) | ![Logs](images/Screenshot%202025-12-10%20232628.png) | ![Network Overview](images/Screenshot%202025-12-10%20232749.png) |
 
 ---
 
-| Docker Compose Build | Containers Running |
+| Docker Frontend IMG | Docker Backend IMG |
 |-----------------------|--------------------|
 | ![Docker Compose Build](images/Screenshot%202025-12-10%20232809.png) | ![Containers Up](images/Screenshot%202025-12-10%20232829.png) |
-| ![Final Setup](images/Screenshot%202025-12-10%20233421.png) |  |
 
 ---
 
