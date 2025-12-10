@@ -35,7 +35,7 @@ This application consists of:
 
 ### 🔧 More Interface Previews
 
-| Backend JSON Data | JSON Response | Docker Login | Docker Hub Images Push |
+| Backend JSON Data | JSON Response | Docker Login | Docker IMG Push |
 |------------------|----------------|------|----------|
 | ![Form Submission](images/Screenshot%202025-12-10%20232420.png) | ![API JSON Response](images/Screenshot%202025-12-10%20232614.png) | ![Logs](images/Screenshot%202025-12-10%20232628.png) | ![Network Overview](images/Screenshot%202025-12-10%20232749.png) |
 
