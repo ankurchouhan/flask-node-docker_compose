@@ -5,6 +5,17 @@ The frontend provides a form that sends data to the backend API, which processes
 
 ---
 
+## 🐳 Docker Hub Images
+
+You can pull the prebuilt Docker images from Docker Hub:
+
+| Service | Docker Hub Link | Pull Command |
+|----------|-----------------|---------------|
+| 🧠 **Flask Backend** | [ankurchouhan/flask-backend](https://hub.docker.com/r/ankurchouhan/flask-backend) | `docker pull ankurchouhan/flask-backend` |
+| 🖥️ **Node Frontend** | [ankurchouhan/node-frontend](https://hub.docker.com/r/ankurchouhan/node-frontend) | `docker pull ankurchouhan/node-frontend` |
+
+---
+
 ## 🧩 Project Overview
 
 This application consists of:
