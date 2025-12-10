@@ -1,0 +1,20 @@
+version: "3.9"
+
+services:
+  backend:
+    build: ./backend
+    image: flask-backend
+    container_name: flask-backend
+    ports:
+      - "5000:5000"
+
+  frontend:
+    build: ./frontend
+    image: node-frontend
+    container_name: node-frontend
+    environment:
+      - BACKEND_URL=http://backend:5000
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
